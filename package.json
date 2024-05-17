@@ -23,6 +23,7 @@
   "scripts": {
     "build": "unbuild",
     "dev": "npm run build && ./dist/cli.mjs",
+    "run": " ./dist/cli.mjs",
     "lint": "eslint src/",
     "lint:fix": "eslint src/ --fix",
     "test:unit": "node --experimental-vm-modules ./node_modules/.bin/jest --silent",
