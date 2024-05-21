@@ -409,7 +409,7 @@ program
   .option("--dryrun", "Do not update the story content")
   .option("--publish <PUBLISH_OPTION>", "Publish the content. It can be: all, published or published-with-changes")
   .option("--publish-languages <LANGUAGES>", "Publish specific languages")
-  .option("--starts-with", "Filter by specific paths")
+  .option("--starts-with <STARTS_WITH>", "Filter by specific paths")
   .action(async (options) => {
     const field = options.field || "";
     const component = options.component || "";
