@@ -8,3 +8,5 @@ export { default as parseError } from './parse-error'
 export { default as region } from './region'
 export { default as saveFileFactory } from './save-file-factory'
 export { default as buildFilterQuery } from './build-filter-query'
+export { default as translateDeepL } from './translate-deepl';
+export { default as translateOpenAI } from './translate-openai';
