@@ -26,6 +26,8 @@ Richtext fields are translated via OpenAI using the `translateOpenAI` util funct
 
 
 ## Run migration
+
+### Manually
 To run the migration, use the `run-migration` command with the same values for the parameters `--space`, `--component`, and `--field` as in the `generate-migration` command.
 
 Use the `--starts-with` parameter to filter stories by path.
@@ -37,6 +39,10 @@ npm run run run-migration -- --space [ID_OF_STORYBLOK_SPACE] --component [COMPON
 ```
 
 The command creates a backup file (`rollback_[Component]_[field].json`) for a potential rollback located in the `rollback` subfolder and performs the migration (expect when using `--dryrun`).
+
+### Automated
+Instead of running translation migrations manually, run the `run-migrations.sh` script. It will perform all migrations following the scheme `change_COMPONENT_translate.js` in the migrations folder for the path `en-US/untranslated`. To change the path, pass the `--starts-with` parameter to the script.
+
 
 ## Rollback migration
 To undo changes performed by a migration, use the `rollback-migration` command with the same values for the parameters `--space`, `--component`, and `--field` as in the `run-migration` command.
