@@ -1,0 +1,4751 @@
+[
+  {
+    "id": 502707827,
+    "full_slug": "en-us/pages/fotocollage",
+    "content": {
+      "_uid": "60a04ff7-919b-4281-b8be-a38a849dd0b5",
+      "body": [
+        {
+          "_uid": "31ebbad9-cb5e-40df-857b-9295ad31fd05",
+          "type": "h1",
+          "subline": "",
+          "headline": "CREATE A PHOTO COLLAGE WITH YOUR BEST PHOTOS",
+          "component": "Headline",
+          "isCentered": false,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "2670f5f0-2ea6-4ec2-a40a-fd8b1e564456",
+          "text": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "bullet_list",
+                "content": [
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Create photomontages with ",
+                            "type": "text"
+                          },
+                          {
+                            "text": "any number of images",
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Customizable designs",
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "text": " and sizes",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Easy-to-use photomontage designer",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Numerous materials",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Fast delivery",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "hard_break"
+              },
+              {
+                "text": "Choose your favorite photos and create a unique collage with us - using any number of images and a variety of layouts. Background colors, personal texts, and many other design elements can easily be added in the configurator, and when it comes to materials, you can design everything to your taste: Order your photos as ",
+                "type": "text"
+              },
+              {
+                "text": "photocollage on poster",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/fotocollage-auf-poster",
+                      "uuid": null,
+                      "anchor": null,
+                      "custom": null,
+                      "target": null,
+                      "linktype": "url"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": ", on ",
+                "type": "text"
+              },
+              {
+                "text": "canvas",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/leinwanddruck",
+                      "uuid": null,
+                      "anchor": null,
+                      "custom": null,
+                      "target": null,
+                      "linktype": "url"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": ", ",
+                "type": "text"
+              },
+              {
+                "text": "Alu Dibond",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/alu-dibond",
+                      "uuid": null,
+                      "anchor": null,
+                      "custom": null,
+                      "target": null,
+                      "linktype": "url"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": " or ",
+                "type": "text"
+              },
+              {
+                "text": "Acrylic Glass",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/foto-acrylglas",
+                      "uuid": null,
+                      "anchor": null,
+                      "custom": null,
+                      "target": null,
+                      "linktype": "url"
+                    }
+                  }
+                ]
+              },
+              {
+                "text": " and optionally directly in the matching frame. The brilliant colors will definitely inspire you. Create your unique picture collage now!",
+                "type": "text"
+              }
+            ]
+          },
+          "component": "Text"
+        },
+        {
+          "_uid": "c9317d63-21d5-4704-9ff6-7c3f683edf1d",
+          "designId": "108",
+          "headline": "",
+          "material": "",
+          "component": "CollageOverviewWrapper",
+          "styleNames": [],
+          "bubbleFilter": [],
+          "showHeadline": false,
+          "categoryNames": [],
+          "defaultOrientation": ""
+        },
+        {
+          "_uid": "4ea13e62-ce78-4cc3-ae23-bbe27a0f7de1",
+          "type": "h2",
+          "subline": "Create your perfect collage with our unique designs",
+          "headline": "PHOTO COLLAGE DESIGN WITH OUR TEMPLATES",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "8d690876-6085-4e72-85e8-5547f0b77686",
+          "items": [
+            {
+              "_uid": "e4e5ac5e-0289-4331-b282-55de5cde0c42",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524646,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/928c276df6/fotocollage-vorlagen-subteaser-06-2022-blanko-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/configurator-collage",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/configurator-collage"
+              },
+              "ctaText": "",
+              "headline": "Blanko-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "85aac3b2-095d-43aa-b6c3-5eaa664d78ad",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524652,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/32fe88b993/fotocollage-vorlagen-subteaser-06-2022-liebe-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-liebe",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-liebe"
+              },
+              "ctaText": "",
+              "headline": "Liebes-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "842ef270-c6be-428d-bcc0-200484ce006f",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524653,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/a6dc13c018/fotocollage-vorlagen-subteaser-06-2022-herz-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-herz",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-herz"
+              },
+              "ctaText": "",
+              "headline": "Herz-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "5e82743e-87a2-4505-abb3-25808f63349c",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524654,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/839051a44c/fotocollage-vorlagen-subteaser-06-2022-familie-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-familie",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-familie"
+              },
+              "ctaText": "",
+              "headline": "Familien-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "88ce70ec-5258-4f46-9fac-ac264ab8d2d6",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524655,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/43e27991c9/fotocollage-vorlagen-subteaser-06-2022-baby-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-baby",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-baby"
+              },
+              "ctaText": "",
+              "headline": "Baby-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "fa5a2a35-0972-4ec0-82f8-28fdd3006586",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524656,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/fb06debdd0/fotocollage-vorlagen-subteaser-06-2022-geburtstag-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-geburtstag",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-geburtstag"
+              },
+              "ctaText": "",
+              "headline": "Geburtstags-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "fc3a6044-9aaf-4a7f-acb9-e12030a82508",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524657,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/327c4d6350/fotocollage-vorlagen-subteaser-06-2022-hochzeit-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-hochzeit",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-hochzeit"
+              },
+              "ctaText": "",
+              "headline": "Hochzeits-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "db6218ed-1bfd-4aac-97bc-e31008175ac7",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524658,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/f13b7d1737/fotocollage-vorlagen-subteaser-06-2022-urlaub-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-urlaub",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-urlaub"
+              },
+              "ctaText": "",
+              "headline": "Urlaubs-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "a735bad1-d9f3-4b39-8ee9-df3c8814c433",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524659,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/1f7172dee0/fotocollage-vorlagen-subteaser-06-2022-freunde-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-freunde",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-freunde"
+              },
+              "ctaText": "",
+              "headline": "Freundes-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "669db380-d7c6-4df7-8a80-febe5ea5ab4b",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524660,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/34d5fcd909/collagen-subteaser-kachel-vorlagen-basic-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-basic",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-basic"
+              },
+              "ctaText": "",
+              "headline": "Basic-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "932f2786-d93e-4f13-8022-0e14835ec93e",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524661,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/032c99cae0/fotocollage-vorlagen-subteaser-06-2022-viele-bilder-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-mit-vielen-bildern",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-mit-vielen-bildern"
+              },
+              "ctaText": "",
+              "headline": "Viele-Bilder-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "4059abc8-3235-4de5-b765-a671e910d010",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524662,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/f0353e2a03/collagen-subteaser-kachel-vorlagen-weihnachten-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-weihnachten",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-weihnachten"
+              },
+              "ctaText": "",
+              "headline": "Weihnachts-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "f82f8bdb-042d-4f6a-9154-588250afad14",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524663,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/96b175e9ed/fotocollage-auf-leinwand-subteaser-kachel-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-auf-leinwand",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-auf-leinwand"
+              },
+              "ctaText": "",
+              "headline": "Fotocollage auf Leinwand",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "dfdec54d-8522-4d44-8be2-10836c19afa0",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524664,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/6064975ed9/bilderrahmen-collage-subteaser-kachel-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/bilderrahmen-collage",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/bilderrahmen-collage"
+              },
+              "ctaText": "",
+              "headline": "Bilderrahmen Collage",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "93b93b82-01d2-482e-a61c-ea0a63a71e5b",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524665,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/95aa6c3b52/fotocollage-auf-poster-subteaser-kachel-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-auf-poster",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-auf-poster"
+              },
+              "ctaText": "",
+              "headline": "Fotocollage auf Poster",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            }
+          ],
+          "component": "SubTeaserTiles"
+        },
+        {
+          "_uid": "420a464d-8679-4dc3-beac-84495069613e",
+          "type": "h2",
+          "subline": "",
+          "headline": "CREATE A COLLAGE AND PRINT IT WITH A PROFESSIONAL",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "7e5cac47-5e0d-461a-9e77-76b59180d17f",
+          "items": [
+            {
+              "_uid": "17889ef1-59e5-4782-a83d-c36fdb3adf24",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Ein Bild sagt mehr als 1.000 Worte - aber eine ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Fotocollage",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "? Die erzählt ganze Geschichten! Mit MYPOSTER kannst Du jetzt ganz einfach Deine ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "individuelle Collage erstellen",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " und Deine eigenen Erzählungen gestalten. Unsere breite Palette an ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Designvorlagen",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " bietet für jeden Geschmack und Anlass das Richtige - ob romantisch verspielt, modern und minimalistisch oder klassisch elegant. Du wählst einfach deine Lieblingsvorlage aus und fügst Deine persönlichen Bilder hinzu - völlig unkompliziert und ohne jegliche Vorkenntnisse oder technische Finessen. So kannst Du nicht nur spielend einfach deine Fotocollage erstellen, es macht auch noch richtig Spaß! Und mit unserer Auswahl an hochwertigen Materialien findest Du garantiert die perfekte Kombination, um Deine Bilder bestmöglich zur Geltung zu bringen. Bringe Deine Fotos zum Sprechen und verleihe jedem Raum Deine ganz persönliche Note - mit einer ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Foto Collage von MYPOSTER",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ".",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349518,
+                "alt": "fotocollage-info-node-1",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/1b2c08b2d8/fotocollage-info-node-1-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Create your personalized photo collage",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "c49ffa6f-a190-4756-9051-b098e4c33ae0",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Werde kreativ und gestalte eine ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Fotocollage für jeden Anlass",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ": Bringe das Geburtstagskind zum Strahlen mit einer ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Fotocollage zum Geburtstag",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "/fotocollage-geburtstag",
+                              "uuid": null,
+                              "anchor": null,
+                              "target": null,
+                              "linktype": "url"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "text": " voller Erinnerungen aus vergangenen Jahren, perfekt für das Wohnzimmer oder Kinderzimmer, um die besonderen Momente im Leben gebührend zu feiern. Halte die magischen Momente Deines großen Tages mit einer ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Fotocollage zur Hochzeit",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "/fotocollage-hochzeit",
+                              "uuid": null,
+                              "anchor": null,
+                              "target": null,
+                              "linktype": "url"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "text": " für die Ewigkeit fest und schmücke damit dein Schlafzimmer oder Wohnzimmer. Unsere ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Collage Liebe",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "/fotocollage-liebe",
+                              "uuid": null,
+                              "anchor": null,
+                              "target": null,
+                              "linktype": "url"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "text": " zeigt Deinen Liebsten, wie viel sie Dir bedeuten - nicht nur am Valentinstag. Diese liebevoll gestaltete Collage bringt Romantik in Deine vier Wände und lässt Herzen höherschlagen. Verbreite Festtagsstimmung mit einer ganz persönlich gestalteten ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Fotocollage Weihnachten",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "/fotocollage-weihnachten",
+                              "uuid": null,
+                              "anchor": null,
+                              "target": null,
+                              "linktype": "url"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "text": " und verschenke Erinnerungen. Überrasche Oma und Opa mit einer Collage der schönsten Fotos ihrer Enkel. Entdecke viele ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "weitere Collage-Ideen",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " und füge Deine Bilder online zu einem Meisterwerk zusammen: feiere Baby's 1. Jahr, die Highlights deiner letzten Reise, unvergessliche Erinnerungen mit deinen Freunden oder gestalte einen kreativen Jahresrückblick mit einer einzigartigen Fotocollage.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349522,
+                "alt": "fotocollage-info-node-2",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/0fc12f66c7/fotocollage-info-node-2-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "The perfect photo collage template for any occasion",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "e99303ab-a6a9-45ab-b2a4-d81ad4375692",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "The selection of the right material is crucial to create the desired ambiance and showcase your collage to its best advantage. ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Canvas prints",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " are particularly suitable for landscape shots, abstract artworks, and artistic photographs. These motifs gain an additional dimension due to the natural texture of the canvas. ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Acrylic glass prints",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " are ideal for motifs that require a clear and brilliant display. Colors are rendered particularly vividly due to the smooth surface of the acrylic glass, making them perfect for high-quality photographs, portraits, and modern artworks. Acrylic glass prints work especially well in well-lit spaces like living rooms or offices. Collages of landscape shots or architectural photographs stand out particularly well on ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Alu-Dibond",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ", as the material offers a matte surface and high color fidelity. Alu-Dibond is also suitable for use in damp areas such as bathrooms and kitchens due to its robust nature, being waterproof and wipeable.",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Poster prints",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " are versatile and are chosen for decorating living rooms, bedrooms, children's and teenagers' rooms due to their lightness and affordability.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349524,
+                "alt": "Fotocollage More Info 3",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/5c36dc8b3e/fotocollage-more-info-3-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Find the perfect combination of design and material for your photo collage",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "4ad67c82-f8fa-4b6f-8b77-7ebe7fe8b4f1",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Are you looking for a ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "photo collage 10x15",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " or perhaps a ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "photo collage in XXL size",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "? At MYPOSTER, you are not only flexible in terms of collage design. Whether you are looking for a long collage or a portrait-oriented collage - with us, you can create the perfect ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "collage in your desired format",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " for any wall and any space.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349527,
+                "alt": "fotocollage-hochzeit-vorlage-info-1",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/41abd1936b/fotocollage-hochzeit-vorlage-info-1-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Our formats are simply smart - Fotocollage XXL or Fotocollage Din A4",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            }
+          ],
+          "headline": null,
+          "component": "Information",
+          "isAccordion": false
+        },
+        {
+          "_uid": "851ca866-feb3-4098-b4bf-445ea89d7771",
+          "type": "h2",
+          "subline": "",
+          "headline": "CREATE YOUR OWN PERSONAL PHOTO COLLAGE",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "c15c8734-9df2-4c00-937b-fd63c52252eb",
+          "items": [
+            {
+              "_uid": "4b6fdb27-6966-4bb7-8794-fa76592724d6",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "If you want to create a collage quickly and easily but do not know how or lack inspiration, then you have come to the right place at MYPOSTER. You can create your ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "photo collage online",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " or with our app (available for iPhone and Android). Enjoy maximum flexibility with our ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "MYPOSTER Collage Maker",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". Choose your favorite layout for your photo collage in our configurator and customize it to your liking - add ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "as many photos as you like",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ", change the ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "background color, frames, or fonts",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ", add ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "custom texts",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ", or enhance your collage with creative cliparts. Use our ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "image optimization tools",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " and numerous ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "filters",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " to make the most out of your images.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349529,
+                "alt": "fotocollage-info-node-3",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/191e174e8b/fotocollage-info-node-3-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Creating a photo collage - super easy, super personalized",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "f98536ea-6bf5-44f9-ba6c-e3df9433b3ae",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "ordered_list",
+                    "attrs": {
+                      "order": 1
+                    },
+                    "content": [
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Wähle eine unserer zahlreichen Collage Vorlagen oder beginne mit einem leeren Entwurf bzw. Blanco Design, um ihn zu personalisieren",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Wähle das richtige Format und das Material, auf dem Du Deine Collage drucken möchtest (Poster, Leinwand, gerahmtes Foto, Acryl, Glas, Aluminium-Dibond, Gallery Bond, Werbeleinwand...)",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Lade Deine Fotos im Konfigurator hoch",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Individualisiere Deine Collage mit unserem Collage Maker: kombiniere Bilder nach Wunsch, füge neue Textfelder hinzu oder nutze unsere vielen Gestaltungselemente",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Tipp vom Experten",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Wir empfehlen Dir immer zuerst das gewünschte Format, in Deinem bevorzugten Seitenverhältnis anzulegen, bevor Du mit der Gestaltung der Collage mit Layout und Bildern beginnst.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349535,
+                "alt": "fotocollage-info-node-4",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/56fe275b4c/fotocollage-info-node-4-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How can I create a collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "783b8ad3-bc65-4bbe-b94e-ca1e40678545",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Du möchtest eine ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Fotocollage erstellen",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " und Deinem Meisterwerk gleich den richtigen Rahmen geben? Bei MYPOSTER findest Du die richtige ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Bilderrahmen Collage",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "/bilderrahmen-collage",
+                              "uuid": null,
+                              "anchor": null,
+                              "target": null,
+                              "linktype": "url"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "text": ": Füge in unserem Collagen-Designer einen passenden ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Rahmen aus Holz, Aluminium oder Kunststoff",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " in verschiedenen Ausführungen hinzu und Du erhältst eine ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "professionell und staubfrei gerahmte Fotocollage",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". Egal, ob Du einen klassischen Holzrahmen für einen nostalgischen Look bevorzugst, einen eleganten Aluminiumrahmen für einen modernen Touch wünscht oder einen robusten Kunststoffrahmen für eine praktische Lösung benötigst - wir haben die passende Rahmenoption für Deine Fotocollage. Unsere hochwertigen Rahmen sorgen nicht nur für einen stilvollen Abschluss Deiner Collage, sondern schützen Deine Bilder auch vor Staub und anderen Umwelteinflüssen, damit deine Erinnerungen lange Zeit strahlen können.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349537,
+                "alt": "fotocollage-familie-vorlage-info-1",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/97d8ad32a6/fotocollage-familie-vorlage-info-1-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Photo collage in frame",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            }
+          ],
+          "headline": null,
+          "component": "Information",
+          "isAccordion": false
+        },
+        {
+          "_uid": "e4e752c9-f8cc-448f-9df7-a158ae9d3f34",
+          "type": "h2",
+          "subline": "",
+          "headline": "HOW TO CREATE THE PERFECT PHOTO COLLAGE",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "7f622296-561f-46af-9a9f-10dd0285d831",
+          "items": [
+            {
+              "_uid": "5852233a-71cc-4a15-8b1f-bced452cfbd0",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Printed photo collages are excellent for ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "decorating",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " your home, as meaningful ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "gifts",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " for your loved ones, or for hanging up on special ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "occasions",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". Collages can tell stories by combining different moments or ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "events in a composition",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ", which can be more challenging to achieve with individual photo prints. They group images with a common theme in a clear and space-saving way. You can arrange the images in the collage to harmonize for presentation and visual impact, without being bound by fixed frames or sizes of individual photos. With the right tricks, you can create a ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "photo collage",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " that not only captures glances but also touches hearts. It grabs attention and ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "tells a story",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " or presents your best moments in an impressive manner.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349540,
+                "alt": "Fotocollage More Info 4",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/dcaac1fe1d/fotocollage-more-info-4-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Collagen sind darum eine beliebte Wahl",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "3468c4d5-bd2d-4206-9238-4afca51b669a",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "You can arrange photo collages in different ways:",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bullet_list",
+                    "content": [
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Stylistic Collage",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Design your photo collage according to a specific style or aesthetic, such as Vintage or Boho. Use filters or special layouts to achieve the desired style and create a cohesive atmosphere. For example, you can create a vintage collage with old family photos, faded colors, and nostalgic elements to evoke a sentimental mood.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Chronological Collage",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Choose photos from different moments of your life and arrange them in chronological order. This way, you can relive your memories in their temporal sequence and see how they have evolved over time.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Thematic Collage",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Create a collage with photos on a specific theme, such as vacation, wedding, birthday, or travel. Arrange the photos artistically to tell a visual story.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349541,
+                "alt": "fotocollagen-vorlagen-info-node-4",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/1e6a8723eb/fotocollagen-vorlagen-info-node-4-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How to merge pictures online",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "c2874550-e264-47f5-85d4-ffc5a162c955",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "ordered_list",
+                    "attrs": {
+                      "order": 1
+                    },
+                    "content": [
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Bildauswahl",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Verwende nicht zu viele Bilder, um die Collage nicht überladen wirken zu lassen. In der Regel funktionieren Collagen am besten mit 5-10 Bildern.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Layout und Format",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Experimentiere mit verschiedenen Formaten, wie quadratisch, rechteckig oder sogar kreisförmig, um den gewünschten visuellen Effekt zu erzielen.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Farbliche Gestaltung",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Achte auf die Farbwahl Deiner Bilder, um eine harmonische Collage zu erstellen. Bilder mit ähnlichen Farbpaletten können gut zusammenpassen und ein zusammenhängendes Erscheinungsbild erzeugen. Du kannst auch Farbfilter verwenden, um den Bildern einen einheitlichen Stil zu verleihen.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Texte",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Du kannst eine Collage bereichern, indem Du zusätzliche Informationen, Zitate oder eine persönliche Botschaft hinzufügst. Verwende Text sparsam und platziere ihn strategisch. Wähle gut lesbare Schriftarten und passende Textfarben.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": "Proportionen beachten",
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "bold"
+                                  }
+                                ]
+                              },
+                              {
+                                "text": ": Achte darauf, dass die Proportionen der Bilder in Deiner Collage zueinander passen. Vermeide es, Bilder zu stark zu vergrößern oder zu verkleinern, da dies das Gesamtbild stören kann. Bei unterschiedlichen Bildgrößen platziere größere Bilder im Hintergrund und kleinere im Vordergrund.",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349543,
+                "alt": "fotocollage-liebe-vorlage-info-1",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/073b452206/fotocollage-liebe-vorlage-info-1-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Creating the perfect photo collage - 5 tips",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            }
+          ],
+          "headline": null,
+          "component": "Information",
+          "isAccordion": false
+        },
+        {
+          "_uid": "307b1ced-54fc-464e-8924-093ea8dc2f31",
+          "type": "h2",
+          "subline": "",
+          "headline": "Photo Collage - Popular questions",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "99995601-3a53-473e-b8fc-ab3cafdaf77a",
+          "items": [
+            {
+              "_uid": "fe8683df-8586-473d-b387-6c6795717334",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "A collage is an artistic technique where different images, materials, or objects are arranged and glued or attached to create a new artwork on a surface. Collages can consist of photos, newspaper clippings, texts, colors, or other elements. A photo collage is a special type of collage where only photographs are used and creatively assembled. This allows memories and events to be captured in a single image and tell whole stories.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "What is a collage",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "03deceb4-dd22-44bc-a2e0-21038c5137d1",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "No matter if you want to create a photo collage with 3 pictures, 12 pictures, or a photo collage with 100 pictures, at MYPOSTER you are maximally flexible and thanks to our matching templates, all options are open to you.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Can I create a photo collage with many pictures?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "6c05347a-6b39-4bb3-8849-e133d1ce442a",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "ordered_list",
+                    "attrs": {
+                      "order": 1
+                    },
+                    "content": [
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": " Wähle eine unserer Vorlagen oder ein Blanko Design",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": " Lade Deine Bilder hoch",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": " Wähle Format und Material",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "text": " Fotocollage prüfen…fertig",
+                                "type": "text"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How can I create a photo collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "dc4a441c-4d5c-4ecf-8970-1a09d33807bf",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "For a very good result and high-quality print, we recommend a minimum of 150 dpi (dots per inch) or in other words, 60 pixels per square centimeter.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "What resolution should images have for a photo collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "4090a7b2-4930-4c90-bc30-4a8e8f4b8a5b",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "We process the following pixel-based file formats: JPG, TIFF, PNG, and PDF up to a size of 100 MB.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "What file formats can I upload?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "0274f484-bf7f-49f2-851e-9061eeb55e2f",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Many of our collage templates already include text elements. If you want to add more text boxes, simply click on the button with the large +T on the bottom right of our Collage Maker, next to your photo collage.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How do I create a collage with text?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "7fd29684-56bd-4387-ae6d-15f9bd6ee4d2",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Arrange your images in our collage maker either manually or choose 'auto-fill'. Our configurator will then automatically create a photo collage with your photos.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How can I arrange images in a collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "7edf87a9-2143-4b86-905d-f4d0e6671680",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Download our app, scroll to the Photo Collages section, and select your desired format. Then simply add your favorite photos from your phone and let our Collage Designer do the rest. If you don't want to make any further changes to the images, just choose the appropriate material and place the product in your cart. By clicking 'Order', your photo collage will then be on its way to you in the quickest time possible.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How do you make a collage on your phone?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "c048f836-9618-4df2-83ac-844bf25e4775",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Simply choose one of our many themed templates. With a click, you will enter our configurator where you only need to upload your own images.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How can I set a template?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "1fca0ce0-ef65-49aa-8c72-5a38d5a75f05",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "In unserem Collage Maker kannst Du rechts unter dem Button \"Größe\" das Format deiner Fotocollage einstellen. Wir empfehlen immer zuerst das gewünschte Format, in Deinem bevorzugten Seitenverhältnis anzulegen, bevor Du die Gestaltung der Collage mit Layout und Bildern beginnst.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How do I choose the format for my collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "f490112b-0453-4d4b-8685-bc08de5255a6",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "After clicking on \"Create Collage\", choose the desired size in the Collage Maker under \"Size\" on the right side. For a portrait orientation, we recommend layouts such as 3:4, 2:3, or 1:2.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How can I create a portrait-oriented collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "1a777d17-5801-47f4-b0be-3f371f45e9ba",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Yes, you can save your collage at any time by using the \"save in customer account\" feature to store it temporarily and continue working on it later. Simply create a customer account for this purpose. You will then find the collage in your customer account under \"My Collages\".",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Can I save my collage and continue editing it later?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "6cbd9d0f-2fb6-498a-a402-ccf68b3901bd",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "It depends on the materials used to create picture collages. If they are made from high-quality and durable materials such as canvas, acrylic glass, or aluminium composite panel, they can last for many years.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "How long-lasting are photo collages?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "3a39c4eb-fdc0-46f4-9f8a-372a9d897f49",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "When choosing materials, you are extremely flexible. You can create collages not only on a classic canvas or poster, but also on acrylic glass, aluminum dibond, or gallery bond.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "What materials can I use for a collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "10f35544-4bfa-4427-ac9c-4d5c20e78329",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "The delivery times from handover to our shipping partners are usually 1 to 3 business days.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "What are the delivery times of an online created photo collage?",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "3258af4f-e69f-44f1-a78d-daf800f6d76c",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Here in our ",
+                        "type": "text"
+                      },
+                      {
+                        "text": "help section",
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "/https://help.myposter.com/hc/de/",
+                              "uuid": null,
+                              "anchor": null,
+                              "target": null,
+                              "linktype": "url"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "text": " you will find many answers to the most common questions. Need more detailed information? Then our customer service is available Monday to Friday 8:00 - 17:00 at 08131 380 3008, or you can email us at service@myposter.de.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": null,
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "I have more questions about my photo collage",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            }
+          ],
+          "headline": null,
+          "component": "Information",
+          "isAccordion": true
+        }
+      ],
+      "title": "Fotocollage: Erstellen Sie Collagen mit Ihren Fotos",
+      "robots": "index,follow",
+      "teaser": [],
+      "ogImages": [],
+      "component": "Page",
+      "uspTeaser": [
+        {
+          "_uid": "09f1bb90-1674-4216-b3ce-712ab73735d4",
+          "items": [
+            {
+              "_uid": "f687582a-f6e5-4e74-8f34-ccf396d52c34",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "You order before 11:00 – we guarantee delivery the next working day.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Express shipping",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "ae8789e8-ac40-46c6-90a0-2dd7a537c613",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "In the configurator, you can place and customize everything according to your taste.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Individual design",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "82a45669-e549-47d7-979b-bcdc62a69121",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Discover designs for every occasion, in many different styles.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "PERFECT TEMPLATES",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "b9a3a087-ee2a-49fe-b733-c18845c7dd75",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Combine as many images as you want for your collage.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Any number of photos",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "ea52b08d-07a9-49b7-8eb3-230bb248a49c",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "We print your collage as a poster, canvas, acrylic print, and more!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Large selection of materials",
+              "component": "UspTeaserItem"
+            }
+          ],
+          "component": "UspTeaser"
+        }
+      ],
+      "description": "Collagen erstellen mit deinen Fotos ✔️ über 100 Vorlagen ✔️ Express-Service ✔️ auf Leinwand, Poster und mehr ✔️ Jetzt Bilder Collage erstellen!",
+      "canonicalUrl": {
+        "id": "",
+        "url": "",
+        "linktype": "story",
+        "fieldtype": "multilink",
+        "cached_url": ""
+      },
+      "footerOverride": [
+        {
+          "_uid": "ba478c0b-2665-4d82-8123-ca08c16e4d74",
+          "linkbox": [
+            {
+              "_uid": "1bb897ed-9e01-4232-a1cf-f2e3079fabd6",
+              "headline": "Other popular pages",
+              "_editable": "<!--#storyblok#{\"name\": \"FooterLinkBox\", \"space\": \"169502\", \"uid\": \"1bb897ed-9e01-4232-a1cf-f2e3079fabd6\", \"id\": \"385926709\"}-->",
+              "component": "FooterLinkBox",
+              "linkLists": [
+                {
+                  "_uid": "ab3c14ce-20c7-4b5b-b857-f5b7c33bc4ae",
+                  "links": [
+                    {
+                      "_uid": "380cc05b-4430-485c-88a6-a8a56a0a49ef",
+                      "link": {
+                        "id": "",
+                        "url": "/posterdruck",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/posterdruck"
+                      },
+                      "text": "Poster printing",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"380cc05b-4430-485c-88a6-a8a56a0a49ef\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "40f2dcfc-49c5-4435-82c3-67dcab5af490",
+                      "link": {
+                        "id": "",
+                        "url": "/leinwanddruck",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/leinwanddruck"
+                      },
+                      "text": "Canvas Prints",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"40f2dcfc-49c5-4435-82c3-67dcab5af490\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "6a8099ef-de0f-4831-a74d-61dc60142122",
+                      "link": {
+                        "id": "",
+                        "url": "/fotobuch",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotobuch"
+                      },
+                      "text": "Photo Books",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"6a8099ef-de0f-4831-a74d-61dc60142122\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "e5498675-12b1-4d34-8cee-6d1e688ac873",
+                      "link": {
+                        "id": "",
+                        "url": "/fotokalender",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotokalender"
+                      },
+                      "text": "Photo calendar",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"e5498675-12b1-4d34-8cee-6d1e688ac873\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "5e91b62e-c3d8-4aa5-9758-c5c54a4ce1c1",
+                      "link": {
+                        "id": "",
+                        "url": "/fotos-drucken",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotos-drucken"
+                      },
+                      "text": "Print photos",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"5e91b62e-c3d8-4aa5-9758-c5c54a4ce1c1\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "Headline": "",
+                  "LinkList": [
+                    {
+                      "_uid": "71378801-06e7-4173-9d26-ad9244275d9b",
+                      "link": {
+                        "id": "",
+                        "url": "test.com",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "test.com"
+                      },
+                      "text": "test",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"71378801-06e7-4173-9d26-ad9244275d9b\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Beliebte Produkte",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"ab3c14ce-20c7-4b5b-b857-f5b7c33bc4ae\", \"id\": \"385926709\"}-->",
+                  "component": "LinkListWithHeadline"
+                },
+                {
+                  "_uid": "f62f2246-4571-46e5-8787-735bdf6cad6e",
+                  "links": [
+                    {
+                      "_uid": "d9db7947-c8b1-4487-bd12-92084adbc989",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-geburtstag",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-geburtstag"
+                      },
+                      "text": "Photo Collage Birthday",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"d9db7947-c8b1-4487-bd12-92084adbc989\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "3ccf2663-b4b9-4f68-b21b-1426b7abf2c2",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-herz",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-herz"
+                      },
+                      "text": "Photo Collage Heart",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"3ccf2663-b4b9-4f68-b21b-1426b7abf2c2\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "6dc4c5e4-fccd-4c9d-9056-e693fea497d7",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-mit-vielen-bildern",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-mit-vielen-bildern"
+                      },
+                      "text": "Photo Collage many pictures",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"6dc4c5e4-fccd-4c9d-9056-e693fea497d7\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "caa325cf-37da-4458-8abc-adb129af1413",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-freunde",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-freunde"
+                      },
+                      "text": "Photo Collage Friends",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"caa325cf-37da-4458-8abc-adb129af1413\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "198a9e65-373c-421b-83ca-68a3b07903c0",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-vorlagen",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-vorlagen"
+                      },
+                      "text": "Photo Collage Templates",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"198a9e65-373c-421b-83ca-68a3b07903c0\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Weitere Fotocollage Produkte",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"f62f2246-4571-46e5-8787-735bdf6cad6e\", \"id\": \"385926709\"}-->",
+                  "component": "LinkListWithHeadline"
+                },
+                {
+                  "_uid": "48d3e9ba-b551-4412-a290-cfd5715865eb",
+                  "links": [
+                    {
+                      "_uid": "5fb4dae0-eb88-41b0-950d-600e39b8704a",
+                      "link": {
+                        "id": "",
+                        "url": "/collage-maker",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/collage-maker"
+                      },
+                      "text": "Collage Maker",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"5fb4dae0-eb88-41b0-950d-600e39b8704a\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "9ff16a7b-c43f-4b62-b586-00700384f9ba",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-auf-leinwand",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-auf-leinwand"
+                      },
+                      "text": "Canvas Collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"9ff16a7b-c43f-4b62-b586-00700384f9ba\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "8496ce95-d495-4759-b692-d86cd571ea64",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-auf-poster",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-auf-poster"
+                      },
+                      "text": "Collage Posters",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"8496ce95-d495-4759-b692-d86cd571ea64\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "57434b5d-984f-47f3-b9b4-57089d4f6789",
+                      "link": {
+                        "id": "",
+                        "url": "/bilderrahmen-collage",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/bilderrahmen-collage"
+                      },
+                      "text": "Picture Frames Collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"57434b5d-984f-47f3-b9b4-57089d4f6789\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "0dd6cc43-2b3a-4145-9b8a-edd188cf4c48",
+                      "link": {
+                        "id": "",
+                        "url": "/3-teilige-bilder",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/3-teilige-bilder"
+                      },
+                      "text": "3 part pictures",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"0dd6cc43-2b3a-4145-9b8a-edd188cf4c48\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Passende Produkte",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"48d3e9ba-b551-4412-a290-cfd5715865eb\", \"id\": \"385926709\"}-->",
+                  "component": "LinkListWithHeadline"
+                },
+                {
+                  "_uid": "16b806a6-4da2-4137-93f6-027d4ac43802",
+                  "links": [
+                    {
+                      "_uid": "555bb45b-f349-4b1b-9053-7872a06916da",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/4-kreative-ideen-fuer-ihr-fotocollage-geschenk/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/4-kreative-ideen-fuer-ihr-fotocollage-geschenk/"
+                      },
+                      "text": "Photo Collage Gift Ideas",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"555bb45b-f349-4b1b-9053-7872a06916da\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "ccf09543-66d6-4b6c-bee2-3d064299c936",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/fotocollagen-erstellen/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/fotocollagen-erstellen/"
+                      },
+                      "text": "Tips for creating Photo Collages",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"ccf09543-66d6-4b6c-bee2-3d064299c936\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "b695f082-d8fb-4f55-92ee-303aaaa395c1",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/gratis-weihnachts-collagen/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/gratis-weihnachts-collagen/"
+                      },
+                      "text": "Christmas collages",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"b695f082-d8fb-4f55-92ee-303aaaa395c1\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "e098f234-307e-4bb3-9739-c219c2be1302",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/valentinstag-collage/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/valentinstag-collage/"
+                      },
+                      "text": "Valentine's Day collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"e098f234-307e-4bb3-9739-c219c2be1302\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "43513b52-7607-4528-8853-735a542fc6c7",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/sprueche/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/sprueche/"
+                      },
+                      "text": "Popular sayings",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"43513b52-7607-4528-8853-735a542fc6c7\", \"id\": \"385926709\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Passende Magazin Artikel",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"16b806a6-4da2-4137-93f6-027d4ac43802\", \"id\": \"385926709\"}-->",
+                  "component": "LinkListWithHeadline"
+                }
+              ]
+            }
+          ],
+          "seoText": [],
+          "component": "PageFooter"
+        }
+      ],
+      "activeNavigation": "collage",
+      "additionalSameAsLinks": "",
+      "useQueryParamsInCanonical": false
+    }
+  },
+  {
+    "id": 502707797,
+    "full_slug": "en-us/pages/fotocollage-vorlagen",
+    "content": {
+      "_uid": "af852d1d-ee2e-4cc1-82bd-a4b1b0a4d8ce",
+      "body": [
+        {
+          "_uid": "1d008610-9c76-47df-8928-9a8aa724a9c0",
+          "type": "h1",
+          "subline": "",
+          "headline": "You can find the perfect Photo Collage template here.",
+          "component": "Headline",
+          "isCentered": false,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "11c3e90d-92fc-49c9-8d84-428fb2f1e695",
+          "text": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "No matter the occasion, no matter the taste - we have the perfect design template for your photo collage. You can customize it to your preferences in our configurator, with as many images, backgrounds, text fields, and other details as you like. And of course, you can also have your collage printed: as a poster, canvas, on acrylic glass, and more!",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "component": "Text"
+        },
+        {
+          "_uid": "252797b2-4bc0-4b2b-8750-2f4c270348f5",
+          "designId": "108",
+          "headline": "",
+          "material": "",
+          "component": "CollageOverviewWrapper",
+          "styleNames": [],
+          "bubbleFilter": [],
+          "showHeadline": false,
+          "categoryNames": [],
+          "defaultOrientation": ""
+        },
+        {
+          "_uid": "8e3459af-7294-473b-adf6-484dd07a4e62",
+          "type": "h2",
+          "subline": "Create your perfect collage with our unique designs",
+          "headline": "PHOTO COLLAGE DESIGN WITH OUR TEMPLATES",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "911a0f3e-39a9-4d6d-ad2c-0bff77ef5495",
+          "items": [
+            {
+              "_uid": "c30b2b7c-7a73-4b32-a572-14c73dd86aa0",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524646,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/928c276df6/fotocollage-vorlagen-subteaser-06-2022-blanko-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/configurator-collage",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/configurator-collage"
+              },
+              "ctaText": "",
+              "headline": "Blanko-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "8f680ab1-5dc1-4f32-a154-5538e3eb8e3c",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524652,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/32fe88b993/fotocollage-vorlagen-subteaser-06-2022-liebe-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-liebe",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-liebe"
+              },
+              "ctaText": "",
+              "headline": "Liebes-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "3e3ebb04-3d8b-4dff-862e-1f68747e12c5",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524653,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/a6dc13c018/fotocollage-vorlagen-subteaser-06-2022-herz-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-herz",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-herz"
+              },
+              "ctaText": "",
+              "headline": "Herz-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "6e8de906-66b7-4c94-9642-6deb295c03bb",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524654,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/839051a44c/fotocollage-vorlagen-subteaser-06-2022-familie-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-familie",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-familie"
+              },
+              "ctaText": "",
+              "headline": "Familien-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "204dcc11-4038-480d-b21f-484bc9d0a2de",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524655,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/43e27991c9/fotocollage-vorlagen-subteaser-06-2022-baby-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-baby",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-baby"
+              },
+              "ctaText": "",
+              "headline": "Baby-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "06ba92f4-efd5-4d0f-a3cc-3a589ce1ce31",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524656,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/fb06debdd0/fotocollage-vorlagen-subteaser-06-2022-geburtstag-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-geburtstag",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-geburtstag"
+              },
+              "ctaText": "",
+              "headline": "Geburtstags-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "c6bc1eef-329c-42a0-ab59-1fd2409530d4",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524657,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/327c4d6350/fotocollage-vorlagen-subteaser-06-2022-hochzeit-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-hochzeit",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-hochzeit"
+              },
+              "ctaText": "",
+              "headline": "Hochzeits-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "1cb9c360-2668-4bfb-8029-f9dfb4ca052c",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524658,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/f13b7d1737/fotocollage-vorlagen-subteaser-06-2022-urlaub-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-urlaub",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-urlaub"
+              },
+              "ctaText": "",
+              "headline": "Urlaubs-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "a3b5b74d-bb3d-4289-af70-0719fa8eb277",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524659,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/1f7172dee0/fotocollage-vorlagen-subteaser-06-2022-freunde-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-freunde",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-freunde"
+              },
+              "ctaText": "",
+              "headline": "Freundes-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "2da9a30a-47cf-4188-844c-8b0f02f620c5",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524660,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/34d5fcd909/collagen-subteaser-kachel-vorlagen-basic-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-basic",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-basic"
+              },
+              "ctaText": "",
+              "headline": "Basic-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "ff7fb856-df2d-4aab-96ac-9384a28b04a9",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524661,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/032c99cae0/fotocollage-vorlagen-subteaser-06-2022-viele-bilder-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-mit-vielen-bildern",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-mit-vielen-bildern"
+              },
+              "ctaText": "",
+              "headline": "Viele-Bilder-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "34665032-7d26-4581-8de4-2206aad3667c",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524662,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/f0353e2a03/collagen-subteaser-kachel-vorlagen-weihnachten-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-weihnachten",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-weihnachten"
+              },
+              "ctaText": "",
+              "headline": "Weihnachts-Vorlagen",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "cd18b550-6909-4b9d-9e9b-f0ae241e9c33",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524663,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/96b175e9ed/fotocollage-auf-leinwand-subteaser-kachel-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-auf-leinwand",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-auf-leinwand"
+              },
+              "ctaText": "",
+              "headline": "Fotocollage auf Leinwand",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "ba085768-0a9b-4611-8f4a-13e514146f78",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524664,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/6064975ed9/bilderrahmen-collage-subteaser-kachel-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/bilderrahmen-collage",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/bilderrahmen-collage"
+              },
+              "ctaText": "",
+              "headline": "Bilderrahmen Collage",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            },
+            {
+              "_uid": "d0e921de-1363-4f0c-84a1-4bf242569786",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "image": {
+                "id": 14524665,
+                "alt": "",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/169502/95aa6c3b52/fotocollage-auf-poster-subteaser-kachel-l.jpg",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_private": false,
+                "is_external_url": false
+              },
+              "ctaLink": {
+                "id": "",
+                "url": "/fotocollage-auf-poster",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "/fotocollage-auf-poster"
+              },
+              "ctaText": "",
+              "headline": "Fotocollage auf Poster",
+              "component": "SubTeaserTilesItem",
+              "labelText": "",
+              "withoutPrice": true,
+              "labelTextColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              },
+              "labelBackgroundColor": {
+                "value": "",
+                "plugin": "storyblok-palette"
+              }
+            }
+          ],
+          "component": "SubTeaserTiles"
+        },
+        {
+          "_uid": "e6a6d5d5-1021-4bbd-9c41-f1f2b631b5ea",
+          "type": "h2",
+          "subline": "",
+          "headline": "Photo Collage Templates: We have it all!",
+          "component": "Headline",
+          "isCentered": true,
+          "largeTopMargin": false
+        },
+        {
+          "_uid": "cc3aaa13-6d1a-4cbd-9c94-514aca04a56e",
+          "items": [
+            {
+              "_uid": "d70f044f-009d-47bd-92cd-32d11c3b72b6",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Whether romantic, simple, as a gift, or for a wedding, with our photo collage templates, there is definitely a design for you. Simply browse through our various categories and let yourself be inspired! Once you've found your model, you can customize it in our configurator, add your photos, change or add text, and more. You have all the creative possibilities, and thanks to the intuitive interface, you'll quickly find your way. Alternatively, you can also design without a photo collage template and start with a blank canvas. The result is always the same: a 100% personalized collage exactly to your liking, which you will still enjoy looking at even after years. Choose the right photos and start creating now!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15423641,
+                "alt": "fotocollagen-vorlagen-info-node-1",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/01c9a10d22/fotocollagen-vorlagen-info-node-1-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Your collage, your design - thanks to our templates",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "a9b62bcf-4961-4b47-9f5b-cef7cfe6ec77",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Our design templates are just the beginning! When you have found your favorite, you can customize it completely in our configurator - on your computer, smartphone, or tablet. You can replace our sample images with your own, add as many images as you like, change the background, adjust the format and material, and more! Try out different ideas before making a decision. Save all your designs with a single click in your customer account so you can compare them later. In the end, you only need to choose the appropriate material, add a frame if desired, and order your collage. We can even print many variants for you express so that your collage will be with you the next day!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15423642,
+                "alt": "fotocollagen-vorlagen-info-node-2",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/ee7407996c/fotocollagen-vorlagen-info-node-2-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Customize your photo collage template in the configurator - make it fit.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "3b6bbdc1-4a9e-41a6-adc8-ea5711e79c4a",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "When creating your collage, you can let your imagination run wild with us and take your photo collage template to a new level with a variety of embellishments, clip arts, and fonts. Highlight design elements or texts with gold, rose gold, or silver foiling, or experiment with different fonts until you find your favorite. Additionally, you can add image elements and clip arts that fit the theme of your collage. In the configurator, you can choose from thousands of options, easily insert, enlarge, rotate elements with a click, etc. This turns our design template into your own personal collage in no time, tailored to your vision. Start designing now for the best results!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15423643,
+                "alt": "fotocollagen-vorlagen-info-node-3",
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/f56602f500/fotocollagen-vorlagen-info-node-3-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Enhancements, graphical elements, and fonts for your photo collage template.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            },
+            {
+              "_uid": "cb2afd2d-75af-4dfc-b499-2e3dde0ec60b",
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "You can freely choose whether you want to print your collage on a poster, canvas, acrylic glass, gallery bond, and more using your template. Additionally, we can deliver your photo collage directly in a wooden, aluminum, or plastic frame upon request. This way, you can hang it on the wall right after unpacking. While designing, you can easily check the different options in the configurator and compare various models. Select the material that best matches your style and images and click on 'order'. Your collage template will look even better in real life, we promise!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "image": {
+                "id": 15349541,
+                "alt": null,
+                "focus": null,
+                "title": null,
+                "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/1e6a8723eb/fotocollagen-vorlagen-info-node-4-xxl.jpg",
+                "copyright": null,
+                "fieldtype": "asset"
+              },
+              "isOpen": false,
+              "headline": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "The suitable material for your photo collage template.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "component": "InformationItem",
+              "imageName": "",
+              "imageDescription": ""
+            }
+          ],
+          "headline": null,
+          "component": "Information",
+          "isAccordion": false
+        }
+      ],
+      "title": "Collage Vorlagen: Viele Vorlagen für Fotocollagen | MYPOSTER",
+      "robots": "index,follow",
+      "teaser": [
+        {
+          "_uid": "b182d7f0-fa7b-4e8c-a10e-c1d7ecba1c97",
+          "image": {
+            "id": 15423640,
+            "alt": "brand teaser image",
+            "focus": null,
+            "title": null,
+            "filename": "https://s3.amazonaws.com/a.storyblok.com/f/169502/d02a968dc0/image1_4_3_2f80caa1.jpg",
+            "copyright": null,
+            "fieldtype": "asset"
+          },
+          "ctaLink": {
+            "id": null,
+            "url": "/configurator-collage",
+            "linktype": "url",
+            "cachedUrl": "/configurator-collage",
+            "fieldtype": "multilink"
+          },
+          "ctaText": "Design now!",
+          "subline": {
+            "text": null
+          },
+          "topline": "",
+          "headline": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Your photos as a collage are coming out big.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "image2_1": {
+            "id": 15423661,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "https://a.storyblok.com/f/169502/1920x1440/b1059df1ae/image1_4_3_428b6317.jpg",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_private": false,
+            "is_external_url": false
+          },
+          "image3_2": {
+            "id": 15423661,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "https://a.storyblok.com/f/169502/1920x1440/b1059df1ae/image1_4_3_428b6317.jpg",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_private": false,
+            "is_external_url": false
+          },
+          "image4_3": {
+            "id": 15423661,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "https://a.storyblok.com/f/169502/1920x1440/b1059df1ae/image1_4_3_428b6317.jpg",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_private": false,
+            "is_external_url": false
+          },
+          "jumpToH1": true,
+          "video2_1": {
+            "_uid": "a82b509c-102e-4f5d-854b-b0dc8fa46fc0",
+            "plugin": "vimeo",
+            "vimeo_raw": "",
+            "vimeo_oembed": null
+          },
+          "video3_2": {
+            "_uid": "b35185b6-fd50-4665-9215-d9faa77151de",
+            "plugin": "vimeo",
+            "vimeo_raw": "",
+            "vimeo_oembed": null
+          },
+          "video4_3": {
+            "_uid": "4a2138f3-7717-418a-b9e4-426e08faaf6d",
+            "plugin": "vimeo",
+            "vimeo_raw": "",
+            "vimeo_oembed": null
+          },
+          "component": "Teaser",
+          "textColor": {
+            "value": "#f8fafa",
+            "plugin": "storyblok-palette"
+          },
+          "calculator": null,
+          "ctaTextColor": {
+            "value": "#e84620",
+            "plugin": "storyblok-palette"
+          },
+          "backgroundColor": {
+            "value": "#e84620",
+            "plugin": "storyblok-palette"
+          },
+          "ctaBackgroundColor": {
+            "value": "#f8fafa",
+            "plugin": "storyblok-palette"
+          }
+        }
+      ],
+      "ogImages": [],
+      "component": "Page",
+      "uspTeaser": [
+        {
+          "_uid": "2f15d717-b7a7-4bc1-bf40-21392ba1c231",
+          "items": [
+            {
+              "_uid": "6a0b7080-28fe-4a7e-8da6-05c288134cac",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "In the configurator, you can place and customize everything to your liking.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Individual design",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "e8e4ae7b-20a7-4f8f-a9be-de0707d32d90",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "For your collage, combine as many images as you like.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Any number of photos",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "47578cdf-9a83-4dcf-835c-efb9e9a44f0d",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "You order before 11:00 – we guarantee delivery on the next working day.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "Express shipping",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "e7484dfb-5e1f-4d2e-abaf-363f885a9860",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Discover designs for every occasion, in many different styles.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "PERFECT TEMPLATES",
+              "component": "UspTeaserItem"
+            },
+            {
+              "_uid": "e6170350-558e-4c0e-b506-cf42988732b1",
+              "link": null,
+              "text": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "We print your collage as a poster, canvas, acrylic glass print, and more!",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "headline": "LARGE SELECTION OF MATERIALS",
+              "component": "UspTeaserItem"
+            }
+          ],
+          "component": "UspTeaser"
+        }
+      ],
+      "description": "Sie wollen Collagen, wir haben die Vorlagen! Kreative Fotocollage Vorlage ✔️ Beliebig viele Bilder möglich ✔️ Alle Anlässe ✔️ Jetzt online erstellen!",
+      "canonicalUrl": {
+        "id": "",
+        "url": "",
+        "linktype": "story",
+        "fieldtype": "multilink",
+        "cached_url": ""
+      },
+      "footerOverride": [
+        {
+          "_uid": "ba478c0b-2665-4d82-8123-ca08c16e4d74",
+          "linkbox": [
+            {
+              "_uid": "1bb897ed-9e01-4232-a1cf-f2e3079fabd6",
+              "headline": "Other popular pages",
+              "_editable": "<!--#storyblok#{\"name\": \"FooterLinkBox\", \"space\": \"169502\", \"uid\": \"1bb897ed-9e01-4232-a1cf-f2e3079fabd6\", \"id\": \"385957040\"}-->",
+              "component": "FooterLinkBox",
+              "linkLists": [
+                {
+                  "_uid": "ab3c14ce-20c7-4b5b-b857-f5b7c33bc4ae",
+                  "links": [
+                    {
+                      "_uid": "e5498675-12b1-4d34-8cee-6d1e688ac873",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage"
+                      },
+                      "text": "Photo Collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"e5498675-12b1-4d34-8cee-6d1e688ac873\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "380cc05b-4430-485c-88a6-a8a56a0a49ef",
+                      "link": {
+                        "id": "",
+                        "url": "/posterdruck",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/posterdruck"
+                      },
+                      "text": "Poster printing",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"380cc05b-4430-485c-88a6-a8a56a0a49ef\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "40f2dcfc-49c5-4435-82c3-67dcab5af490",
+                      "link": {
+                        "id": "",
+                        "url": "/leinwanddruck",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/leinwanddruck"
+                      },
+                      "text": "Canvas Prints",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"40f2dcfc-49c5-4435-82c3-67dcab5af490\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "6a8099ef-de0f-4831-a74d-61dc60142122",
+                      "link": {
+                        "id": "",
+                        "url": "/fotobuch",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotobuch"
+                      },
+                      "text": "Photo Books",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"6a8099ef-de0f-4831-a74d-61dc60142122\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "5e91b62e-c3d8-4aa5-9758-c5c54a4ce1c1",
+                      "link": {
+                        "id": "",
+                        "url": "/fotos-drucken",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotos-drucken"
+                      },
+                      "text": "Print photos",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"5e91b62e-c3d8-4aa5-9758-c5c54a4ce1c1\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "Headline": "",
+                  "LinkList": [
+                    {
+                      "_uid": "71378801-06e7-4173-9d26-ad9244275d9b",
+                      "link": {
+                        "id": "",
+                        "url": "test.com",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "test.com"
+                      },
+                      "text": "test",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"71378801-06e7-4173-9d26-ad9244275d9b\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Beliebte Produkte",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"ab3c14ce-20c7-4b5b-b857-f5b7c33bc4ae\", \"id\": \"385957040\"}-->",
+                  "component": "LinkListWithHeadline"
+                },
+                {
+                  "_uid": "f62f2246-4571-46e5-8787-735bdf6cad6e",
+                  "links": [
+                    {
+                      "_uid": "d9db7947-c8b1-4487-bd12-92084adbc989",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-geburtstag",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-geburtstag"
+                      },
+                      "text": "Photo Collage Birthday",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"d9db7947-c8b1-4487-bd12-92084adbc989\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "3ccf2663-b4b9-4f68-b21b-1426b7abf2c2",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-herz",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-herz"
+                      },
+                      "text": "Photo Collage Heart",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"3ccf2663-b4b9-4f68-b21b-1426b7abf2c2\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "6dc4c5e4-fccd-4c9d-9056-e693fea497d7",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-mit-vielen-bildern",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-mit-vielen-bildern"
+                      },
+                      "text": "Photo Collage many pictures",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"6dc4c5e4-fccd-4c9d-9056-e693fea497d7\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "caa325cf-37da-4458-8abc-adb129af1413",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-freunde",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-freunde"
+                      },
+                      "text": "Photo Collage Friends",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"caa325cf-37da-4458-8abc-adb129af1413\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "198a9e65-373c-421b-83ca-68a3b07903c0",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-familie",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-familie"
+                      },
+                      "text": "Photo Collage Family",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"198a9e65-373c-421b-83ca-68a3b07903c0\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Weitere Fotocollage Produkte",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"f62f2246-4571-46e5-8787-735bdf6cad6e\", \"id\": \"385957040\"}-->",
+                  "component": "LinkListWithHeadline"
+                },
+                {
+                  "_uid": "48d3e9ba-b551-4412-a290-cfd5715865eb",
+                  "links": [
+                    {
+                      "_uid": "9ff16a7b-c43f-4b62-b586-00700384f9ba",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-auf-leinwand",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-auf-leinwand"
+                      },
+                      "text": "Canvas Collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"9ff16a7b-c43f-4b62-b586-00700384f9ba\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "8496ce95-d495-4759-b692-d86cd571ea64",
+                      "link": {
+                        "id": "",
+                        "url": "/fotocollage-auf-poster",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/fotocollage-auf-poster"
+                      },
+                      "text": "Collage Posters",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"8496ce95-d495-4759-b692-d86cd571ea64\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "57434b5d-984f-47f3-b9b4-57089d4f6789",
+                      "link": {
+                        "id": "",
+                        "url": "/bilderrahmen-collage",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/bilderrahmen-collage"
+                      },
+                      "text": "Picture Frames Collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"57434b5d-984f-47f3-b9b4-57089d4f6789\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "0dd6cc43-2b3a-4145-9b8a-edd188cf4c48",
+                      "link": {
+                        "id": "",
+                        "url": "/3-teilige-bilder",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "/3-teilige-bilder"
+                      },
+                      "text": "3 part pictures",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"0dd6cc43-2b3a-4145-9b8a-edd188cf4c48\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Passende Produkte",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"48d3e9ba-b551-4412-a290-cfd5715865eb\", \"id\": \"385957040\"}-->",
+                  "component": "LinkListWithHeadline"
+                },
+                {
+                  "_uid": "16b806a6-4da2-4137-93f6-027d4ac43802",
+                  "links": [
+                    {
+                      "_uid": "555bb45b-f349-4b1b-9053-7872a06916da",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/4-kreative-ideen-fuer-ihr-fotocollage-geschenk/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/4-kreative-ideen-fuer-ihr-fotocollage-geschenk/"
+                      },
+                      "text": "Photo Collage Gift Ideas",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"555bb45b-f349-4b1b-9053-7872a06916da\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "ccf09543-66d6-4b6c-bee2-3d064299c936",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/fotocollagen-erstellen/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/fotocollagen-erstellen/"
+                      },
+                      "text": "Tips for creating Photo Collages",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"ccf09543-66d6-4b6c-bee2-3d064299c936\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "b695f082-d8fb-4f55-92ee-303aaaa395c1",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/gratis-weihnachts-collagen/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/gratis-weihnachts-collagen/"
+                      },
+                      "text": "Christmas collages",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"b695f082-d8fb-4f55-92ee-303aaaa395c1\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "e098f234-307e-4bb3-9739-c219c2be1302",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/valentinstag-collage/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/valentinstag-collage/"
+                      },
+                      "text": "Valentine's Day collage",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"e098f234-307e-4bb3-9739-c219c2be1302\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    },
+                    {
+                      "_uid": "43513b52-7607-4528-8853-735a542fc6c7",
+                      "link": {
+                        "id": "",
+                        "url": "https://www.myposter.de/magazin/sprueche/",
+                        "linktype": "url",
+                        "fieldtype": "multilink",
+                        "cached_url": "https://www.myposter.de/magazin/sprueche/"
+                      },
+                      "text": "Popular sayings",
+                      "_editable": "<!--#storyblok#{\"name\": \"LinkItem\", \"space\": \"169502\", \"uid\": \"43513b52-7607-4528-8853-735a542fc6c7\", \"id\": \"385957040\"}-->",
+                      "component": "LinkItem"
+                    }
+                  ],
+                  "headline": "Passende Magazin Artikel",
+                  "_editable": "<!--#storyblok#{\"name\": \"LinkListWithHeadline\", \"space\": \"169502\", \"uid\": \"16b806a6-4da2-4137-93f6-027d4ac43802\", \"id\": \"385957040\"}-->",
+                  "component": "LinkListWithHeadline"
+                }
+              ]
+            }
+          ],
+          "seoText": [],
+          "component": "PageFooter"
+        }
+      ],
+      "activeNavigation": "collage",
+      "additionalSameAsLinks": "",
+      "useQueryParamsInCanonical": false
+    }
+  }
+]
