@@ -4,7 +4,7 @@
 MIGRATIONS_DIR="./migrations"
 
 # Default path if --starts-with param is not provided
-DEFAULT_STARTS_WITH="en-US/untranslated"
+DEFAULT_STARTS_WITH="en-us/untranslated"
 
 # Check if the directory exists
 if [ ! -d "$MIGRATIONS_DIR" ]; then
@@ -50,7 +50,7 @@ for FILE in "$MIGRATIONS_DIR"/*; do
     echo $COMPONENT_TO_TRANSLATE
 
     # Run the npm command with the extracted component name
-    npm run run run-migration -- --space 169502 --component $COMPONENT_TO_TRANSLATE --field translate --starts-with $STARTS_WITH --dryrun
+    npm run run run-migration -- --space 169502 --component $COMPONENT_TO_TRANSLATE --field translate --starts-with $STARTS_WITH
   else
     echo "Filename $FILENAME does not match the expected pattern."
   fi
