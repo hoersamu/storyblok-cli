@@ -16,7 +16,7 @@ const translateOpenAI = async (block, field) => {
       },
       { role: "user", content: JSON.stringify(block[field]) }
     ],
-    model: "gpt-3.5-turbo-0125",
+    model: "gpt-4-turbo",
     response_format: { type: "json_object" },
   })
   .then(result => {
