@@ -46,6 +46,7 @@ const runMigration = async (api, component, field, options = {}) => {
   const publish = options.publish || null
   const publishLanguages = options.publishLanguages || null
   const startsWith = options.startsWith || ""
+  const releaseId = options.releaseId || 0
 
   try {
     const fileName = getNameOfMigrationFile(component, field)
@@ -124,6 +125,10 @@ const runMigration = async (api, component, field, options = {}) => {
 
           if (!isEmpty(publishLanguages)) {
             payload.lang = publishLanguages
+          }
+
+          if (releaseId) {
+            payload.release_id = releaseId;
           }
 
           await api.put(url, payload)

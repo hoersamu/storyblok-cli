@@ -10,3 +10,4 @@ export { default as saveFileFactory } from './save-file-factory'
 export { default as buildFilterQuery } from './build-filter-query'
 export { default as translateDeepL } from './translate-deepl';
 export { default as translateOpenAI } from './translate-openai';
+export { default as optimizeTranslations } from './optimize-translations';

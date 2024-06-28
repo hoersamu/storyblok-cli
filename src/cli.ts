@@ -410,6 +410,7 @@ program
   .option("--publish <PUBLISH_OPTION>", "Publish the content. It can be: all, published or published-with-changes")
   .option("--publish-languages <LANGUAGES>", "Publish specific languages")
   .option("--starts-with <STARTS_WITH>", "Filter by specific paths")
+  .option("--release-id <RELEASE_ID>", "Set release of migration output")
   .action(async (options) => {
     const field = options.field || "";
     const component = options.component || "";
@@ -417,6 +418,7 @@ program
     const publish = options.publish || null;
     const publishLanguages = options.publishLanguages || "";
     const startsWith = options.startsWith || ""
+    const releaseId = options.releaseId || 0
 
     const space = program.space;
     if (!space) {
@@ -440,7 +442,7 @@ program
       }
 
       api.setSpaceId(space);
-      await tasks.runMigration(api, component, field, { isDryrun, publish, publishLanguages, startsWith });
+      await tasks.runMigration(api, component, field, { isDryrun, publish, publishLanguages, startsWith, releaseId });
     } catch (e) {
       console.log(chalk.red("X") + " An error ocurred when run the migration file: " + e.message);
       process.exit(1);
